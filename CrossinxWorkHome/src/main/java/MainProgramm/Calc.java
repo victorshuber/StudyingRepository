@@ -4,7 +4,8 @@ import static java.lang.Math.pow;
 import java.util.ArrayList;
 import java.util.Stack;
 
-
+// This programm is calculating a string from expression file, located: CrossinxWorkHome\src\main
+//Please see it, if you want to change the expression that is coming in
 
 public class Calc {
     public ArrayList<Character> expression;                                     // list for symbols
